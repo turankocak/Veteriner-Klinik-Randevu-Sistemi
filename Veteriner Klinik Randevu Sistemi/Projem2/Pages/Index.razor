@@ -1,0 +1,140 @@
+﻿@page "/"
+@inject IJSRuntime JS
+<PageTitle>Koçak Veteriner | ANASAYFA</PageTitle>
+
+<html>
+<head>
+<title>Koçak Veteriner | ANASAYFA</title>
+<link rel="Shortcut Icon"  href="imgs/logo.png"  type="image/x-icon" >
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/slider.css" />
+<link rel="stylesheet" type="text/css" href="css/ilankart.css"/>
+
+@* <script src="../javascript/slider.js" type="text/javascript"></script> *@
+<style>
+  #slider {
+      width:625px;
+      height:250px;
+      }	
+  </style>
+</head>
+
+<body>
+  <div width="900" align="center">
+    <div align="center"><img src="imgs/bannerbg.png" width="900" height="200" /></div>
+
+<div class="footer">
+  <ul class="footer">
+    <li><a href="/">ANASAYFA</a></li>
+    <li><a href="/Hakkimizda">HAKKIMIZDA</a></li>
+    <li><a href="/Iletisim">İLETİŞİM</a></li>
+    <li><a href="/Randevugiris">RANDEVU AL +</a></li>
+    </ul>
+</div> 
+    <table>
+      <tr>
+      <td>  </td>
+      </tr>
+    </table>
+      <div class="cerceve2"> 
+    <div class="kategori"> 
+    <ul class="menu">
+      <li><a href="#">Yuva Arayan</a></li>
+      <li><a href="#">Sahiplen</a></li>
+      
+    </ul>
+    </div>
+    <div class="kategori2"> 
+      <ul class="menu">
+        <li><a href="#">Kayıp İlanı</a></li>
+        <li><a href="#">Sahipsiz</a></li>
+       
+      </ul>
+      </div>
+          
+    <div id="slider">
+      <a href="#"><img src="imgs/1.jpg"/></a>
+      <a href="#"><img src="imgs/2.jpg"/></a>
+      <a href="#"><img src="imgs/3.jpg"/></a>
+      <a href="#"><img src="imgs/4.jpg"/></a>
+      <a href="#"><img src="imgs/5.jpg"/></a>
+      </div>
+
+      <div class="container">
+      <a href="/cart1" style="text-decoration: none"><div class="container">
+        <div class="ilankart">
+          <img src="imgs/kedi1.jpg" height="150" width="250"> 
+            <h3 class="ilan_ismi">KEDİLERDE KANSER</h3>
+            <p class="ilan_acıklama">Yoksa kediniz kanser mi?, Kanser nedir?, Nedenleri ve çeşitleri nelerdir? Belirtileri nelerdir?Nasıl teşhis  edilebilir ? Güncel tedavi yöntemleri nelerdir? Kedilerde Kanser’i okuyun.
+    </p>
+        </div> </div></a>
+
+       
+        <a href="/cart2" style="text-decoration: none">
+        <div class="container" >
+          <div class="ilankart">
+            <img src="imgs/saskın2.jpeg" height="150" width="250"> 
+              <h3 class="ilan_ismi">HAYVANLARDA HOMEOPATİ</h3>
+              <p class="ilan_acıklama">
+                Homeopati son günlerde adını sıkça duymaya başladığınız bir konu. Peki nedir bu homeopati, ne işe yarar, kim fayda görür, kim uygular; Öğrenmek isterseniz Homeopati makalesini okuyun.
+             </p>
+      
+          </div>
+    </div></a>
+  
+  
+    <a href="/cart3" style="text-decoration: none">
+<div class="container" >
+  <div class="ilankart">
+    <img src="imgs/kopek3.jpg" height="150" width="250"> 
+      <h3 class="ilan_ismi">KÖPEKLERDE  AYURVEDA</h3>
+      <p class="ilan_acıklama"> Köpeğinizin dosha’sını biliyormusunuz? Peki,  doshasını bildiğiniz köpeğinizin sağlığını uygun yiyeceklerle nasıl  dengede tutacağınızı? Ayurveda’yı duydunuz mu? Öyleyse bu makaleyi okuyun. 
+</p>
+  </div>
+</div></a>
+
+<a href="/cart4" style="text-decoration: none">
+<div class="container" >
+  <div class="ilankart">
+    <img src="imgs/animal4.jpg" height="150" width="250"> 
+      <h3 class="ilan_ismi">Ev Hayvanlarının Temizliği </h3>
+      <p class="ilan_acıklama"> Köpeklerimizi, kedilerimizi küresel bir pandeminin yaşandığı şu günlerde, nasıl temiz tutacağız? Mikroplardan nasıl arındıracağız?Sirkeyle mi yıkasak, karbonatla mı fırçalasak?
+</p>
+  </div>
+</div></a>
+
+<a href="/cart5" style="text-decoration: none">
+<div class="container" >
+  <div class="ilankart">
+    <img src="imgs/kedi5.jpg" height="150" width="250"> 
+      <h3 class="ilan_ismi">Küçük Dostlarımızı Biz Hasta Ediyor Olabilir Miyiz?</h3>
+      <p class="ilan_acıklama">  Acaba evlerimizde baktığımız hayvanlarımız ile nasıl bir iletişim içerisindeyiz?Bizim duygu ve düşüncelerimiz, onlar üzerinde nasıl bir etki bırakıyor?
+</p>
+
+  </div>
+</div></a>
+
+<a href="/cart6" style="text-decoration: none">
+  <div class="container" >
+      <div class="ilankart">
+        <img src="imgs/kangalboys6.jpg" height="150" width="250"> 
+          <h3 class="ilan_ismi">Köpeklere kemik vermeli miyiz?</h3>
+          <p class="ilan_acıklama">Köpekler kemik yiyebilir mi? Kemikler gerçekten güvenli midir? Yoksa vermemek mi lazım.Bazı insanlar köpeklerine kemik yedirmeyi savunurken bazıları bunun tamamen yanlış olduğunu düşünürler. Sadece köpek sahipleri mi, hayır. 
+
+  </p>
+  
+      </div>
+</div></a>
+
+</div>
+
+    <div align="center"><img src="imgs/footerbg.png" width="900" height="250" />    
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
+
+
+

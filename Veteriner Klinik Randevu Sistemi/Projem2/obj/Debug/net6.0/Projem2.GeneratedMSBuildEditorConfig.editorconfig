@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projem2
+build_property.RootNamespace = Projem2
+build_property.ProjectDir = C:\Users\kcksv\Desktop\TURAN\Projelerim\WEB - II\Veteriner Klinik Randevu Sistemi\Projem2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kcksv\Desktop\TURAN\Projelerim\WEB - II\Veteriner Klinik Randevu Sistemi\Projem2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart1/Cart1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0MVxDYXJ0MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart2/Cart2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0MlxDYXJ0Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart3/Cart3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0M1xDYXJ0My5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart4/Cart4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0NFxDYXJ0NC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart5/Cart5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0NVxDYXJ0NS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Cart/Cart6/Cart6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDYXJ0NlxDYXJ0Ni5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Hakkimizda/Hakkimizda.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGFra2ltaXpkYVxIYWtraW1pemRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Iletisim/Iletisim.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWxldGlzaW1cSWxldGlzaW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Randevugiris/Asi/Asi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZGV2dWdpcmlzXEFzaVxBc2kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Randevugiris/Muayene/Muayene.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZGV2dWdpcmlzXE11YXllbmVcTXVheWVuZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Randevugiris/Randevugiris.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZGV2dWdpcmlzXFJhbmRldnVnaXJpcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kcksv/Desktop/TURAN/Projelerim/WEB - II/Veteriner Klinik Randevu Sistemi/Projem2/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

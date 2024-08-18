@@ -1,0 +1,71 @@
+@page "/Asi"
+@inject IJSRuntime JS
+@inject NavigationManager NavigationManager 
+@inherits AsiBase
+
+<PageTitle>Koçak Veteriner | AŞI RANDEVUSU</PageTitle>
+
+<html>
+<head>
+    <title>Koçak Veteriner | RANDEVU </title>
+    <link rel="stylesheet" href="css/ilanver.css">
+    <link rel="Shortcut Icon"  href="imgs/logo.png"  type="image/x-icon" >
+    <!-- <script> 
+    var date = new Date();
+
+            var day = date.getDate();
+            var month = date.getMonth() + 1;
+            var year = date.getFullYear();
+
+            if (month < 10) month = "0" + month;
+            if (day < 10) day = "0" + day;
+
+            var today = year + "-" + month + "-" + day;
+
+
+            document.getElementById('theDate').value = today;
+    
+    </script> -->
+</head>
+<body>
+
+    <div class="panel">
+        <div class="buldum"> <a href="/Randevugiris"> <img name="anasayfa"   src="imgs/logo.png" height="100" width="140" id="anasayfa" usemap="#anasayfa" alt=""></a> 
+         </div>
+        <div class="contact-form"> 
+            <form>
+                <div class="txtb">
+                    <input id="Hastanin_Turu" @bind="Hastanin_Turu" type="text" placeholder="Hastanın  Türü">
+                </div>   
+                <div class="txtb">
+                    <input id="Hastanin_Cinsi" @bind="Hastanin_Cinsi" type="text" placeholder="Hastanın Cinsi">
+                </div>
+                <div class="txtb">
+                    <input id="Mikrocip_No" @bind="Mikrocip_No" type="text" placeholder="Mikroçip No" >
+                </div>
+                <div class="txtb">
+                    <input id="Asi_Nedeni" @bind="Asi_Nedeni" type="text" placeholder="Aşı Nedeni?" >
+                </div>
+                <div class="txtb">
+                    <input id="Sahibin_ismi" @bind="Sahibinin_ismi" type="text" placeholder="Sahibin İsmi">
+                </div>
+                <div class="txtb">
+                    <input id="Sahibin_soyismi" @bind="Sahibinin_soyismi" type="text" placeholder="Sahibin Soyismi">
+                </div>
+
+                <div class="txtb">
+                    <input type="Telefon_No" @bind="Telefon_No" placeholder="Telefon No">
+                </div> 
+                <div class="txtb">
+                    <label> <font color="gray" >Randevu Tarihi Seçiniz</font></label>   <input type="date" @bind="Randevu_Tarihi" id="theDate">
+                </div>
+                <br><input type="button" class="logbtn" value="RANDEVU AL +" @onclick="async () => await Kayıt()">
+               
+			</form>
+            
+        </div>
+    </div>
+</body>
+</html>
+
+@* onclick="window.location.href ='/Randevugiris'" *@

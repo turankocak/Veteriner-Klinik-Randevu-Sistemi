@@ -1,0 +1,22 @@
+#box {
+    max-width: 500px;
+    position:absolute;
+    left: 585px;
+    top:492px;
+    }
+    
+    #search {
+    width: 200px;
+    height: 10px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 20px;
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    }
+    
+    
